@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">JANSAHAY government scheme finder</title>
+  <desc id="heroDesc">Illustration of a citizen exploring welfare schemes with charts and documents.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#E9F8F2"/>
+      <stop offset="35%" stop-color="#D9F0E6"/>
+      <stop offset="100%" stop-color="#BFE3D6"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0F5D4A"/>
+      <stop offset="100%" stop-color="#104E42"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F6FBF9"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#F4C95C"/>
+      <stop offset="100%" stop-color="#E2B249"/>
+    </linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="24" stdDeviation="20" flood-color="#1B3A32" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1200" fill="url(#bg)"/>
+  <circle cx="228" cy="194" r="120" fill="#D6F2E9"/>
+  <circle cx="1330" cy="260" r="160" fill="#C7E9DC"/>
+  <circle cx="1390" cy="920" r="200" fill="#D6F2E9"/>
+
+  <g opacity="0.55">
+    <path d="M1180 160 L1260 160 L1260 240 L1180 240 Z" fill="#C9E8DC"/>
+    <path d="M1115 205 L1260 205" stroke="#8FC8B3" stroke-width="6" stroke-linecap="round"/>
+    <path d="M1115 240 L1225 240" stroke="#8FC8B3" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="210" y="170" width="1180" height="860" rx="52" fill="url(#panel)"/>
+  </g>
+
+  <g transform="translate(290 250)">
+    <rect x="0" y="0" width="540" height="430" rx="30" fill="url(#card)"/>
+    <rect x="30" y="38" width="180" height="22" rx="11" fill="#D7FAED"/>
+    <rect x="30" y="82" width="220" height="18" rx="9" fill="#EDF7F3"/>
+    <rect x="30" y="118" width="250" height="18" rx="9" fill="#EDF7F3"/>
+
+    <rect x="30" y="182" width="170" height="150" rx="22" fill="#EAF7F5"/>
+    <path d="M75 296 C115 228, 150 210, 185 296" fill="#9ADBC0"/>
+    <circle cx="130" cy="188" r="30" fill="#F4C95C"/>
+    <path d="M118 172 L130 150 L142 172" fill="#F4C95C"/>
+
+    <rect x="225" y="182" width="260" height="150" rx="22" fill="#F7FAF9"/>
+    <path d="M255 274 L320 232 L375 256 L455 200" fill="none" stroke="#1B7C66" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="255" cy="274" r="8" fill="#1B7C66"/>
+    <circle cx="320" cy="232" r="8" fill="#1B7C66"/>
+    <circle cx="375" cy="256" r="8" fill="#1B7C66"/>
+    <circle cx="455" cy="200" r="8" fill="#1B7C66"/>
+
+    <rect x="30" y="360" width="455" height="22" rx="11" fill="#EEF8F5"/>
+    <rect x="30" y="390" width="300" height="18" rx="9" fill="#EEF8F5"/>
+
+    <g transform="translate(265 0)">
+      <circle cx="290" cy="70" r="56" fill="#F7C85A"/>
+      <circle cx="290" cy="70" r="28" fill="#FFF4D7"/>
+      <path d="M260 66 L290 40 L320 66" fill="none" stroke="#FFF4D7" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <g transform="translate(890 260)">
+    <rect x="0" y="0" width="360" height="470" rx="28" fill="#F7FCFA"/>
+    <circle cx="180" cy="120" r="64" fill="#DDF3EA"/>
+    <circle cx="180" cy="120" r="34" fill="#1A7362"/>
+    <path d="M150 115 C168 85, 192 85, 210 115" fill="none" stroke="#F7C95A" stroke-width="10" stroke-linecap="round"/>
+    <rect x="68" y="220" width="224" height="18" rx="9" fill="#E8F5F0"/>
+    <rect x="68" y="258" width="188" height="18" rx="9" fill="#E8F5F0"/>
+    <rect x="68" y="296" width="204" height="18" rx="9" fill="#E8F5F0"/>
+    <rect x="68" y="334" width="160" height="18" rx="9" fill="#E8F5F0"/>
+
+    <g transform="translate(0 0)">
+      <rect x="54" y="388" width="250" height="52" rx="26" fill="url(#accent)"/>
+      <text x="82" y="420" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#123D35">Eligible</text>
+      <circle cx="268" cy="414" r="12" fill="#FFF5D8"/>
+      <path d="M260 414 L266 420 L276 404" fill="none" stroke="#123D35" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <g transform="translate(300 740)">
+    <rect x="0" y="0" width="1000" height="180" rx="32" fill="#F6FBF9"/>
+    <circle cx="76" cy="90" r="38" fill="#CBEEDC"/>
+    <path d="M55 90 L76 62 L97 90 L76 118 Z" fill="#1A7B68"/>
+    <rect x="138" y="52" width="280" height="18" rx="9" fill="#E2F1EC"/>
+    <rect x="138" y="86" width="210" height="16" rx="8" fill="#E2F1EC"/>
+    <rect x="470" y="42" width="180" height="95" rx="22" fill="#E7F7F0"/>
+    <rect x="694" y="52" width="240" height="18" rx="9" fill="#E2F1EC"/>
+    <rect x="694" y="84" width="200" height="16" rx="8" fill="#E2F1EC"/>
+    <rect x="958" y="48" width="22" height="58" rx="11" fill="#F4C95C"/>
+  </g>
+</svg>
